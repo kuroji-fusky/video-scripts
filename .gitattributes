@@ -1,0 +1,5 @@
+*       eol=lf
+*.bat   eol=crlf
+
+*.png
+*.jpg
